@@ -14,7 +14,7 @@ Other dependencies must be already available in a POSIX-complaint system.
 ## Usage
 
 ```sh
-./henget.sh
+./pawpaw.sh
 ```
 
 
